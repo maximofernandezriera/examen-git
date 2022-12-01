@@ -23,6 +23,6 @@ Repite nuevamente la práctica 2. Puedes apoyarte en el contenido ya elaborado p
 
 Explica con tus palabras las 3 áreas de un proyecto git:
 
-* Directorio de trabajo (Working directory)
-* Área de preparación (Staging area)
-* Repositorio (Directorio .git)
+1. Directorio de trabajo (Working directory)
+2. Área de preparación (Staging area)
+3. Repositorio local (Directorio .git)
