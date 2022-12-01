@@ -16,10 +16,10 @@ Repite nuevamente la práctica 2. Puedes apoyarte en el contenido ya elaborado p
 1. Debes tener en cuenta que después de lanzar y capturar los comandos más interesantes del proceso estos deben incluir la fecha del sistema y el prompt identificativo de tu equipo/usuario.
 2. Puedes visualizar la fecha del sistema lanzando el comando __date__. Veamos aquí un ejemplo:
 
-![Un ejemplo más de captura]([https://i.imgur.com/bE9LqTa.png](https://imgur.com/bDipRcn.png))
+![Un ejemplo más de captura](https://imgur.com/bDipRcn.png)
 
 
-# PARTE B. (2 PUNTOS). Áreas de un repositorio Git.
+# PARTE C. (2 PUNTOS). Áreas de un repositorio Git.
 
 Explica con tus palabras las 3 áreas de un proyecto git:
 
